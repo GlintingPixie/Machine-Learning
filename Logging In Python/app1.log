@@ -1,0 +1,8 @@
+2024-06-24 20:04:52 - ArithmethicApp - DEBUG - Adding 10 + 15 = 25
+2024-06-24 20:04:52 - ArithmethicApp - DEBUG - Subtracting 15 - 10 = 5
+2024-06-24 20:04:52 - ArithmethicApp - DEBUG - Multiplying 10 * 20 = 200
+2024-06-24 20:04:52 - ArithmethicApp - ERROR - Division by zero error
+2024-06-24 20:05:30 - ArithmethicApp - DEBUG - Adding 10 + 15 = 25
+2024-06-24 20:05:30 - ArithmethicApp - DEBUG - Subtracting 15 - 10 = 5
+2024-06-24 20:05:30 - ArithmethicApp - DEBUG - Multiplying 10 * 20 = 200
+2024-06-24 20:05:30 - ArithmethicApp - ERROR - Division by zero error
